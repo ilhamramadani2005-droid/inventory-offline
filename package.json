@@ -1,0 +1,11 @@
+{
+  "name": "Inventory & Kasir Offline",
+  "version": "1.0.0",
+  "description": "Aplikasi inventory dan kasir offline lokal dengan kalkulasi stok, harga, dan total nilai otomatis.",
+  "main": "index.html",
+  "scripts": {
+    "open": "xdg-open index.html || open index.html || start index.html"
+  },
+  "keywords": ["inventory", "offline", "kasir", "stok", "stock", "local-storage"],
+  "license": "MIT"
+}

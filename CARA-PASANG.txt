@@ -1,0 +1,25 @@
+INVENTORY OFFLINE — PETUNJUK PENGGUNAAN
+
+1. Buka file index.html di browser mana saja (Chrome, Firefox, Edge).
+   - Klik dua kali file index.html atau seret ke jendela browser.
+   - Tidak memerlukan server, hosting, atau koneksi internet.
+
+2. Data disimpan secara otomatis di LocalStorage perangkat.
+   - Jika browser diupdate atau diakses ulang, data tetap ada.
+   - Data terpisah per browser dan per perangkat.
+
+3. Fitur Utama:
+   - Tambah / Edit / Hapus produk.
+   - Sesuaikan stok (+/-) dengan transaksi penambahan atau penyesuaian.
+   - Pencarian real-time berdasarkan nama atau kategori.
+   - Filter kategori dan urutkan (terbaru, A-Z, stok menipis).
+   - Statistik total stok dan nilai inventory.
+   - Ekspor data ke file JSON untuk cadangan.
+   - Impor data JSON untuk mengembalikan atau menggabungkan database.
+
+4. Reset Data:
+   - Klik tombol "Reset Data" di toolbar. Hati-hati: mengosongkan seluruh database lokal.
+
+5. Catatan Keamanan:
+   - Data tidak pernah dikirim ke server mana pun.
+   - Gunakan fitur Ekspor JSON secara berkalaian untuk backup eksternal.
